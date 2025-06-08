@@ -1,0 +1,5 @@
+KodeBrg,NamaBrg,Jenis,Stok,Harga
+01,Zinc,Shampoo,3,12500 
+03,Biore,Sabun,5,2000
+08,Pixy,Deodorant,5,15000
+10,Ciptadent,Odol,2,20000
